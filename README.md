@@ -1,7 +1,7 @@
 # Running Project
 - Clone
 ```shell
- git clone 
+ git clone https://github.com/BoreyJr/http-client-laravel-training.git
 ```
 - Install & update Composer package 
 ```php
